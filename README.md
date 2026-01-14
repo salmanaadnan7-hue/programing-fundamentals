@@ -68,7 +68,7 @@ Examples of covered categories:
 GitHub: salmanaadnan7-hue
 
 
-**Qanita Adnana**
+**Qanita Adnan**
 GitHub: Qanita-Ad
 
 ---
